@@ -1,12 +1,8 @@
 import * as THREE from 'three';
 
 /**
- * Handles all mouse interactions with the 3D product
- * Requirement 4: Mouse Interaction
- * - Raycasting for detecting mouse interactions
- * - Hover feedback (material change)
- * - Click animation (scale effect)
- * - Information display for part names
+ * Handles mouse interactions with the 3D product including
+ * hover effects, click animations, and information display
  */
 export class Interaction {
     constructor(camera, scene, renderer) {

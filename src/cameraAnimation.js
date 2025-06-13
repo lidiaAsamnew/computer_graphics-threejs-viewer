@@ -1,10 +1,5 @@
-/**
- * Handles automatic camera rotation around the product
- * Requirement 5: Camera Animation
- * - Smooth horizontal rotation around Y-axis
- * - Consistent rotation speed
- * - Manual control override
- */
+ //Handles automatic camera rotation with manual override
+ 
 export class CameraAnimation {
     constructor(camera, controls) {
         this.camera = camera;

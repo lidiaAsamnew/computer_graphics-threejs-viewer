@@ -1,11 +1,8 @@
 import * as THREE from 'three';
 
 /**
- * Sets up the lighting for the scene
- * Requirement 3: Lighting
- * - Ambient light for base illumination
- * - Directional lights for highlights and shadows
- * - Professional lighting setup with warm/cool contrast
+ * Sets up the lighting for the scene with ambient light,
+ * directional lights for highlights and shadows
  */
 export function addLighting(scene) {
     // Base ambient light for overall illumination
