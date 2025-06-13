@@ -1,3 +1,7 @@
+Lidia Asamnew
+UGR/2984/15
+Section 3
+
 # Interactive 3D Product Viewer
 
 A Three.js-based interactive 3D product viewer that demonstrates basic mesh composition, lighting, and user interaction.
@@ -14,11 +18,13 @@ A Three.js-based interactive 3D product viewer that demonstrates basic mesh comp
 ## Getting Started
 
 1. Install dependencies:
+
 ```bash
 npm install
 ```
 
 2. Start the development server:
+
 ```bash
 npm run dev
 ```
@@ -45,4 +51,4 @@ npm run dev
 ## Technologies Used
 
 - Three.js - 3D graphics library
-- Vite - Build tool and development server 
+- Vite - Build tool and development server
